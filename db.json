@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "lorem ipsum dolor sit",
+      "day": "5 June",
+      "reminder": true
+    },
+    {
+      "text": "start the prepartion of the capf exam coming in the winter",
+      "day": "March",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
