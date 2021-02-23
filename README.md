@@ -1,3 +1,6 @@
+<h2>The project has two files that are for navbar but couldn't used in the project.
+so ignore the nav.js and nav.css files present in the src/components folder</h2>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
